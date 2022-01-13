@@ -2,22 +2,70 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>You are the best Blog</title>
-        <link>https://heroicVitality.github.io/docs-build/blog</link>
+        <link>https://KillerAMiRa.github.io/docs-build/blog</link>
         <description>You are the best Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Aug 2029 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://heroicVitality.github.io/docs-build/blog/welcome</link>
+            <link>https://KillerAMiRa.github.io/docs-build/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 26 Aug 2029 00:00:00 GMT</pubDate>
             <description><![CDATA[点击左侧目录开始吧！]]></description>
             <content:encoded><![CDATA[<p>点击左侧目录开始吧！</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[冲刺20]]></title>
+            <link>https://KillerAMiRa.github.io/docs-build/blog/冲刺</link>
+            <guid>冲刺</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[- dynamic-form 动态表单]]></description>
+            <content:encoded><![CDATA[<ul><li><p>dynamic-form 动态表单</p></li><li><p>Webpack打包library时经常需要用到的一个选项external</p></li><li><p>webpack的external，不打包第三方库</p></li><li><p>toref  reactive转为ref---单个，如props很有效</p></li><li><p>torefs 转为普通对象</p></li><li><p>Attribute  属性</p></li><li><p>安全方面知识</p></li><li><p>npm模块---造轮子---算法---设计模式</p></li><li><p>rollup-plugin-analyzer 插件进行代码体积分析</p></li><li><p>gitpod 直接运行项目</p></li><li><p>lodash-es 替代 lodash</p></li><li><p>@logicflow 流程图工具</p></li><li><p>jsplump 程图工具</p></li><li><p>Excalidraw 画图工具</p></li><li><p>密码强度，图片裁剪，二维码，图片预览，<a href="https://vvbin.cn/doc-next/">https://vvbin.cn/doc-next/</a></p></li><li><p>tree搜索，流程图，windi css</p></li><li><p>@zxcvbn-ts/core 密码强度估算</p></li><li><p>cropperjs 图片裁剪</p></li><li><p>qrcode 二维码</p></li></ul><p>webpack-bundle-analyzer 打包文件分析工具（packjson直接配置也可以）</p><p>Excel 的 Ctrl + t 、 Ctrl + /</p><p>在线编辑器 <a href="https://stackblitz.com/">https://stackblitz.com/</a> || github1s
+Excel to json  <a href="https://tableconvert.com/excel-to-json">https://tableconvert.com/excel-to-json</a></p><p>是否存在未使用的依赖包 npm install depcheck -g</p><p>id自增  Generator
+随机密码  new Uint32Array(10)</p><p>菜鸟教程
+人人都是产品经理
+wps学院</p><h3>最长递增子序列</h3><p><a href="https://zhuanlan.zhihu.com/p/63416821">vue源码有使用</a></p><p>pnpm  高性能包管理工具，节省磁盘空间
+pm2   负载均衡功能的Node应用的进程管理器，也可实现自动化部署</p><p>Source Map 信息文件，里面储存着位置信息</p><p>inject继续优化
+provide  破 fir 的</p><p>figma UI、设计软件</p><p>win + e
+win + a 快速设置
+win + shift + s 自带截图</p><p>代码格式化文件配置！！</p><h3>软实力</h3><blockquote><ol><li>协调能力  2. 技术硬实 3. 业务理解能力</li></ol></blockquote><p>lodash源码学习</p><ul><li>虚拟列表</li><li>浏览器的事件循环和nodejs的有很大区别！！</li></ul><p>immer.js   深拷贝耗费性能
+Midway    nest.js   nodejs框架
+GraphQL
+node的 I/O
+单线程，事件循环，I/O线程池
+Typeorm 是一个ORM (opens new window)框架
+typescript 进阶</p><ul><li><p>koa、koa2、express
+koa使用的是 ctx，express使用的是 req、res
+koa和koa2不同点 2使用async、await  1使用的是 co 管理 Promise/Generator 语法不同</p></li><li><p>vue 编译原理！！！</p></li><li><p>数据劫持</p></li><li><p>proxy手写</p></li></ul><p>ssh关闭，更换目录</p><p>一叶知秋： 比喻发现一点预兆就料到事物发展的趋向。</p><ul><li><p>管理思维、情绪控制</p></li><li><p>Arguments 对象     所有参数</p></li><li><p>compose   函数 --&gt; 中文解释：组成  对数据做处理，顺序从右到左  康姆剖丝</p></li><li><p>compile   编译    康姆pa耶儿</p></li></ul><p>阮一峰日志</p><p>闭包的调用、函数返回函数、里面的接受参数</p><p>RPC（Remote Procedure Call）远程过程调用</p><ul><li>vite为什么那么快  让浏览器为我们做更多事情（缓存等）</li></ul><pre><code>运行
+  esbuild
+  script type=model
+  按需加载
+  预打包
+生产
+  Vite 在打包的时候，将模块分成两个区域 依赖 和 源码
+    依赖  esbuild 来进行 预构建依赖
+    源码  按需加载
+  Vite 最后的打包是使用了 Rollup
+</code></pre><p><code>nodemon</code> 命令  热更新</p><ul><li><p><code>__dirname</code>   Node.js 中，__dirname 总是指向被执行 js 文件的绝对路径</p></li><li><p>class类中constructor 康斯特爪可特儿 --&gt; 建造师</p><p>  constructor指向class类本身
+constructor才是实例A的构造函数，写在constructor外部的可以理解为绑定在构造函数的原型上
+super是调用父类构造函数</p></li></ul><p>class类 和 构造函数面向对象编程是一种程序设计思想</p><p>chunk 分割--打包成的一个个的块</p><p>埋点 &amp; 监控 ======
+埋点分析，是网站分析的一种常用的数据采集方法</p><p><a href="https://theanarkh.github.io/understand-nodejs/chapter01-Node.js%E7%BB%84%E6%88%90%E5%92%8C%E5%8E%9F%E7%90%86/">nodejs源码</a></p><p><a href="https://vite-design.surge.sh/guide/getting-start.html#%E5%89%8D%E7%BD%AE%E7%9F%A5%E8%AF%86%E7%82%B9">vite 解析</a></p><ul><li><p>Node.js中最核心的部分是Libuv 和 V8</p><p>可以扩展、调用别的语言 如c++
+Libuv是Node.js底层的异步IO库，抹平了各个操作系统之间的差异
+V8引擎 Node.js是基于V8的JS运行时，它利用V8提供的能力，极大地拓展了JS的能力</p></li><li><p>DNS一般指域名系统，常见词汇dns解析</p></li></ul><p>vue的观察者模式
+依赖收集
+<a href="https://www.jianshu.com/p/d137fbdc06ff">Vue2.0 和Vue3.0响应式原理分析</a></p><ul><li>mvc、mvvm</li><li>js双指针--&gt; 最长子序列</li></ul><p><a href="https://vue3js.cn/interview/vue/spa.html#%E4%BA%8C%E3%80%81spa%E5%92%8Cmpa%E7%9A%84%E5%8C%BA%E5%88%AB">面试题整理</a></p><p>vue为什么是构造函数</p><ul><li>程序错误中，80% 是语法错误，16% 是简单的逻辑错误，0.8% 才是困难的问题。</li></ul><hr/><h3>HTTP</h3><ul><li>HTTP 中数据之间的网络传输是明文的</li><li>HTTP 是无状态的</li><li>HTTPS = HTTP + SSL/TLS(安全层)</li></ul><p>不用脚手架搭建vue、react</p><p>arr.map(String) 类型全部转换</p><p>reduce方法，接受回调函数和默认值，回调函数中，1. 返回值，2. 当前值</p><p>sleep函数 休眠函数，直接返回setTimeout函数</p><p><a href="https://docusaurus.io/zh-CN/docs">Docusaurus博客文档工具</a></p><ul><li>dom0级绑定多个相同的事件,后者会覆盖前者,dom2级不会</li></ul><p>宏任务、微任务 分别有哪些
+双向绑定
+h5语义化 使用</p><p>Json-schema 数据格式
+monorepo 大型项目管理，有多个packagejson</p><ul><li>递归函数 要给出口</li></ul><p><a href="https://github.com/Ancss">黄github</a></p><p><a href="https://j02.space/">翻墙网址，鸡几</a></p><p>heroicVitality</p><ul><li>用interface描述<strong>数据结构</strong>，用type描述<strong>类型关系</strong></li></ul><h3>20k面试题</h3><ul><li><p><a href="http://halaproliu.gitee.io/webdoc/#/deploy/#/interview/README">http://halaproliu.gitee.io/webdoc/#/deploy/#/interview/README</a></p></li><li><p><a href="http://www.inode.club/node/">http://www.inode.club/node/</a></p></li><li><p><a href="https://zhuanlan.zhihu.com/p/373597053">https://zhuanlan.zhihu.com/p/373597053</a></p></li><li><p><a href="https://oxyzhg.cn/post/read-more-about-this">https://oxyzhg.cn/post/read-more-about-this</a></p></li><li><p><a href="https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?-">https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?-</a> table=tblLUxZFqOA2vI2F&amp;view=vew0lbb2R4</p></li><li><p><a href="https://zhuanlan.zhihu.com/p/158797820">https://zhuanlan.zhihu.com/p/158797820</a></p></li><li><p><a href="https://github.com/yangyunhai/FrontendPeople">https://github.com/yangyunhai/FrontendPeople</a></p></li><li><p><a href="https://zhuanlan.zhihu.com/p/143611353">https://zhuanlan.zhihu.com/p/143611353</a></p></li><li><p><a href="https://github.com/vianvio/FE-Companions/issues">https://github.com/vianvio/FE-Companions/issues</a></p></li><li><p><a href="https://juejin.cn/post/6844903743125733390">https://juejin.cn/post/6844903743125733390</a></p></li></ul><h5>js在浏览器端是如何运行的</h5><ol><li>页面产生时浏览器就创建了一个window对象</li><li>加载脚本文件MarkdownPreview</li><li>预编译</li><li>解释执行</li><li>函数调用</li></ol><h5>怎么理解事件循环</h5><ul><li>浏览器、Node下循环是不一样的</li></ul><h5>vue优化</h5><ol><li>首屏加载</li><li>dev启动时间</li></ol><h5>怎么做技术选型</h5><ul><li>项目因素</li><li>团队因素</li><li>技术因素</li></ul><h5>什么是事件代理</h5><h5>一个页面比较卡 怎么找出定位问题 步骤</h5><h5>如何实现对一个页面进行拖拽</h5><h5>你的亮点是什么</h5><h5>写过什么优秀的组件</h5><h3>diff算法 &amp; 虚拟DOM</h3><h3>Vue 3.0 diff 新特性 - 静态节点提升</h3><h3>Vue3 渲染系统</h3><h3>垃圾回收</h3><p> 标记回收 和 引用回收</p><h3>收集依赖、派发更新</h3><h3>k8s、docker、大数据、python和前端的交互</h3><h5>npm 模块安装机制</h5><h5>扁平化管理</h5><h5>Cookie 如何防范 XSS 攻击</h5><h5>vue3为什么不兼容ie</h5><ol><li>IE对Proxy不支持，Vue要使用Proxy =&gt; Evan You 带着 Vue3抛弃IE</li><li>IE是一个过去式，微软自己都开发了一个Edge =&gt; 自己公司抛弃 IE</li><li>一些政府机关网站（遗留系统）以前很喜欢IE,现在会提示使用Chrome =&gt; 抛弃IE</li></ol><h5>有了for为什么还需要foreach</h5><ul><li>forEach 其实是一个迭代器</li><li>for 循环是一种循环机制</li></ul><h5>飞书 | 飞书云文档</h5><p>参与优秀开源项目
+Obsidian</p><h5>LocalStorage 扩容</h5><h5>箭头函数不能当做构造函数</h5><p>  箭头函数没有[<!-- -->[Construct]<!-- -->]这个内部槽</p><h3>开源项目</h3><p><a href="https://github.com/freeCodeCamp/freeCodeCamp">学习平台</a></p><p><a href="https://github.com/ohmyzsh/ohmyzsh">终端</a></p><h5>sublime md插件 CTRL + b md文件转为HTML</h5><p>开源中国</p><h5>使用 happypack 提升 Webpack 项目构建速度</h5><h5>window的onload事件和domcontentloaded谁先谁后</h5><p>后者先，DOM树构建完成就会执行</p><h5>class继承与组合寄生继承的差别？？？？？？</h5><p>class是语法糖，实质上还是function</p><h5>闭包的使用场景、坑</h5><ol><li>引用的变量可能发生变化</li><li>this指向问题</li><li>内存泄露问题</li></ol><ul><li>场景：闭包实现递归</li></ul><h5>webpack的执行流程</h5><ol><li>校验配置文件</li><li>生成Compiler对象</li><li>进入entryOption阶段</li><li>run/watch
+webpack5 和 vite
+indexjs 和</li></ol><h5>runtimejs是干嘛的</h5><p>js运行环境、或js运行平台</p><h5>v2ex</h5><h5>loader做了什么事情，能几句话说明白，比如babel-loader，vue-loader</h5><p>对模块的源代码进行转换</p><h5>webpack的plugin和loader怎么写</h5><ul><li>loaderUtils = require(&#x27;loader-utils&#x27;)</li><li>plugin稍微比loader复杂一点点，每个plugin都是一个类，constructor接收plugin实例化的配置对象</li></ul><h5>优化webpack</h5><ol><li>优化Loader文件搜索范围，避免越来越多，编译过的做缓存：HappyPack、DllPlugin、按需加载、Tree Shaking</li></ol><h3>高级范围</h3><ul><li>工具化打包发布流程，包括本地调试、云构建、线上发布体系、一键部署能力。同时，方案不仅限于前端工程部分，包含相关服务端基础设施，比如cdn服务搭建，接入层缓存方案设计，域名管控等。</li><li>客户端缓存及预加载方案。</li></ul><h5>简历上写内网穿透 ngrok、natapp，域名/ https</h5><h5>简化版的vue</h5><h5>Vue 中的受控组件、非受控组件</h5><h5>查找HcySunYang博客 vue2源码</h5><h3>源码解读</h3><p><a href="https://segmentfault.com/a/1190000017815405">vue2-blog</a></p><p><a href="https://github.com/answershuto/learnVue">https://github.com/answershuto/learnVue</a></p><h4>核心思想：数据驱动</h4><ul><li><p>不再直接操作DOM，DOM变成了数据的映射</p></li><li><p>observer(数据劫持) dep(订阅器) watcher(订阅者)</p></li></ul><h5>写个CLI工具</h5><p><a href="https://mp.weixin.qq.com/s/Il0oA09wNw8gag94WabbqQ">https://mp.weixin.qq.com/s/Il0oA09wNw8gag94WabbqQ</a></p><h5><a href="https://link.zhihu.com/?target=https%3A//www.fundebug.com/">Fundebug</a> 排查不易复现bug报警</h5><h5>el-table实现单行刷新</h5><ul><li>this.tableData.splice(index,1,res.data.data)</li></ul><h3>性能优化</h3><ul><li>怎么减少重复的请求的</li></ul><h5>手写设计模式</h5><p><a href="https://www.cnblogs.com/imwtr/p/9451129.html">十五种</a></p><h5>雅虎军规</h5><h5>npx命令功能更强大</h5><pre><code class="language-java">npm init vue@next =&gt; npx create-vue@next
+</code></pre><h5></h5><h5></h5><hr/><blockquote><p>我做了 XX 项目重构，用了 XX 技术方案，克服了 XX 的困难，最终让 XX 这类需求变更可以短平快的被消化，极速研发、快速上线、且数据采集也做到了标准化，研发成本大大降低，数据积累增长迅速，比如 XX ，最后在 XX 产品线中开始推广。</p></blockquote><blockquote><p>需求评审、需求文档分析</p></blockquote><blockquote><p>找到问题的关键点，找到如何衡量关键点的方法，从系统运行的全流程进行分析，针对每个流程进行分别优化。</p></blockquote>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://heroicVitality.github.io/docs-build/blog/mdx-blog-post</link>
+            <link>https://KillerAMiRa.github.io/docs-build/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Use the power of React to create interactive blog posts.]]></description>
@@ -26,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://heroicVitality.github.io/docs-build/blog/first-blog-post</link>
+            <link>https://KillerAMiRa.github.io/docs-build/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
